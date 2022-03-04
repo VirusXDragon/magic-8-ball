@@ -17,7 +17,7 @@ let answers = ["It is certain",
     "Better not tell you now",
     "Cannot predict now",
     "Concentrate and ask again"
-];
+]; 
 
 
 let eight = document.getElementById("eight");
